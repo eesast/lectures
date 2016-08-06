@@ -2,6 +2,7 @@
 ---------------
 ## 讲座内容说明
 ---------------
+
 * linux、unix、GNU简介
 * 安装ubuntu
      * 全新安装，双系统安装
@@ -21,7 +22,7 @@
      * 搜索：`which,type,whereis,locate,find`
 * 用户、用户组、权限
      * 用户、群组、超级用户root概念：
-     * `sudo,users,groups,passwd,useradd,userdel,groupadd,groupdel`
+     `sudo,users,groups,passwd,useradd,userdel,groupadd,groupdel`
      * 文件的拥有者、所属群组、其他人等概念以及ls -l中各列意义
      * 文件、目录权限rwx概念
      * 改变目录、文件权限：`chmod,chown,chqrp`
@@ -34,8 +35,8 @@
      * .run文件安装：（加执行x权限，运行安装程序）。`例：Qt`
 * 网络、服务器中的应用
 * 自学资源
-     * 鸟哥的linux私房菜，`菜鸟教程`等
------------------
+     * 鸟哥的linux私房菜，`菜鸟教程`等  
+     
 ## 人员组成及分工
 -----------------
 * 李阳昊
