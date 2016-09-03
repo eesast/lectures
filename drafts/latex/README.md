@@ -37,7 +37,7 @@
 - **xelatex**
 
 ### 目录与索引
-- **makeindex**
+- **makeindex**(可能放到第二节）
 
 ### 排版/页面设置
 - **titlesec**
@@ -54,7 +54,7 @@
 - **verbatim**
 
 ### 参考文献
-- **bibtex**
+- **bibtex**(可能放到第二节）
 
 ### 演讲
 - **beamer**（在第二节中讲）
