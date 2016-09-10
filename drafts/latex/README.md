@@ -45,22 +45,22 @@
 ### 数学
 - **amsmath**
 - **amsfonts**
-- **theorem**
+- **amsthm**
+- **siunitx**
 
 ### 中文
-- **cjk （不推荐）**
 - **xelatex**
+- **fontspec**
 
 ### 目录与索引
-- **makeindex**
+- **makeindex**(可能放到第二节）
 
 ### 排版/页面设置
 - **titlesec**
-- **layout**
 - **geomatry**
 
 ### 图片/表格
-- **graphicx**
+- **graphicx**(第二节）
 - **hyperref**
 - **array**
 
@@ -69,10 +69,13 @@
 - **verbatim**
 
 ### 参考文献
-- **bibtex**
+- **bibtex**(可能放到第二节）
 
 ### 演讲
 - **beamer**（在第二节中讲）
+
+### 其它
+- **nag**
 
 ### 文档搜索
 - **Texdoc**
