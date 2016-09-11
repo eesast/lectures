@@ -56,13 +56,12 @@
 - **makeindex**(可能放到第二节）
 
 ### 排版/页面设置
-- **titlesec**
 - **geomatry**
+- **titlesec**
+
 
 ### 图片/表格
 - **graphicx**(第二节）
-- **hyperref**
-- **array**
 
 ### 抄录/代码打印
 - **listings**
@@ -76,10 +75,12 @@
 
 ### 其它
 - **nag**
-
+- **hyperref**
 ### 文档搜索
 - **Texdoc**
+- **wikibooks**
 - **谷歌/百度**
+- **howtotex**
 
 # 分工
 
